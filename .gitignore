@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Data / model artifacts
+data/
+checkpoints/
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Notebook / logs
+.ipynb_checkpoints/
+logs/
+runs/
+
+# OS
+.DS_Store
